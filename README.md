@@ -1,8 +1,8 @@
 # Technical_Int_Prep_1
 
-Date: October 16th, 2021
-Time: 1:40PM
-Lead: Leandro Gamarra
+Date: October 16th, 2021 <br>
+Time: 1:40PM <br>
+Lead: Leandro Gamarra <br>
 
 I just wanted to give a big thank you to everyone who joined us. Hopefully you learned something and will continue coming to the rest of our meetings. Below are the steps in order to access the problems that we worked on today, with a separate link with the solutions to these problems.
 
