@@ -1,8 +1,8 @@
 # CSS Technical Interview Prep #1
 
-Date: October 16th, 2021 <br>
-Time: 1:40PM <br>
-Lead: Leandro Gamarra <br>
+<b>Date</b>: October 16th, 2021 <br>
+<b>Time</b>: 1:40PM <br>
+<b>Lead</b>: Leandro Gamarra <br>
 
 I just wanted to give a big thank you to everyone who joined us. Hopefully you learned something and will continue coming to the rest of our meetings. Below are the steps in order to access the problems that we worked on today, with a separate link with the solutions to these problems. Please try to solve these problems on your own first, and then if you get stuck or want to compare your answers take a look at the solutions file.
 
