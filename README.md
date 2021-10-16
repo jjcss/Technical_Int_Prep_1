@@ -24,7 +24,7 @@ I just wanted to give a big thank you to everyone who joined us. Hopefully you l
 <b>Step 4</b>: After forking Repl.it take a look at the solution for the problems above.
 
 # Zoom Link Recording
-<br>Topic: CSS Interview Tech Prep #1 <br>
+Topic: CSS Interview Tech Prep #1 <br>
 Date: Oct 16, 2021 11:48 AM Eastern Time (US and Canada) <br>
 <br>
 Meeting Recording:
