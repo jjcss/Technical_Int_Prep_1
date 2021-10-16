@@ -1,4 +1,4 @@
-# Technical_Int_Prep_1
+# CSS Technical Interview Prep #1
 
 Date: October 16th, 2021 <br>
 Time: 1:40PM <br>
