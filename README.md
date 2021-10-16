@@ -8,17 +8,17 @@ I just wanted to give a big thank you to everyone who joined us. Hopefully you l
 
 # Steps to Accessing Questions Repl.it File
 
-Step 1: Go to this link: https://replit.com/@AlecMori1/Week-1-Session-1 <br>
-Step 2: If you have a Replit account then fork this repl file <br>
-Step 3: If you don't have an accoung, make one and then fork the repl file. <br>
-Step 4: After forking the repl file, go to the main.py file. Make sure that based on the problems you are solving, the only lines uncommented are those questions. Below, since I am starting on problem 0, I only have those two lines ucommented. <br> 
+<b>Step 1</b>: Go to this link: https://replit.com/@AlecMori1/Week-1-Session-1 <br>
+<b>Step 2</b>: If you have a Replit account then fork this repl file <br>
+<b>Step 3</b>: If you don't have an accoung, make one and then fork the repl file. <br>
+<b>Step 4</b>: After forking the repl file, go to the main.py file. Make sure that based on the problems you are solving, the only lines uncommented are those questions. Below, since I am starting on problem 0, I only have those two lines ucommented. <br> 
 <img width="647" alt="Screen Shot 2021-10-16 at 1 26 15 PM" src="https://user-images.githubusercontent.com/33881291/137596676-2078d795-371a-4eee-91ce-b74e687fa9c7.png"> <br>
-Step 5: For each problem, you'll see that they all have various test cases that you have to account for. If you pass all tests, and you run your code, you'll should get a blank output. This means that all your tests cases have passed. If you want to get an output that your test cases passed, then add this to all of your problems test function. All I did was add the else statement with the print statement. Example below... <br>
+<b>Step 5</b>: For each problem, you'll see that they all have various test cases that you have to account for. If you pass all tests, and you run your code, you'll should get a blank output. This means that all your tests cases have passed. If you want to get an output that your test cases passed, then add this to all of your problems test function. All I did was add the else statement with the print statement. Example below... <br>
 <img width="718" alt="Screen Shot 2021-10-16 at 1 29 51 PM" src="https://user-images.githubusercontent.com/33881291/137596782-2bb0382d-5887-40f7-899e-6e666ca2c10c.png">
 
 # Steps to Accessing Solutions Repl.it File
 
-Step 1: Go to this link: https://replit.com/@r0m3c/Week-1-Session-1-5#main.py <br>
-Step 2: If you have a Replit account then fork this repl file <br>
-Step 3: If you don't have an account, make one and then fork the repl file. <br>
-Step 4: After forking Repl.it take a look at the solution for the problems above.
+<b>Step 1</b>: Go to this link: https://replit.com/@r0m3c/Week-1-Session-1-5#main.py <br>
+<b>Step 2</b>: If you have a Replit account then fork this repl file <br>
+<b>Step 3</b>: If you don't have an account, make one and then fork the repl file. <br>
+<b>Step 4</b>: After forking Repl.it take a look at the solution for the problems above.
